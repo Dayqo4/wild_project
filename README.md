@@ -1,2 +1,5 @@
-# wild_project
-Test de partage de fichier a deux 
+# wild-project
+
+Comment installer ce projet ?
+
+Tout ce que nous avons à faire pour l'instant, c'est de le cloner.
